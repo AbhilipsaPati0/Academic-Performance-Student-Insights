@@ -1,4 +1,5 @@
 ![image](https://github.com/AbhilipsaPati0/Academic-Performance-Student-Insights/blob/d02a33bc2ff4783bbf5ee6eea50e44d66968f43a/Screenshot%202026-01-31%20173254.png)
+![image](https://github.com/AbhilipsaPati0/Academic-Performance-Student-Insights/blob/4bbea120f5b1bfdfd8a0e6923577c903395ec080/Screenshot%202026-01-31%20173321.png)
 # Academic Performance & Student Insight 
 
 ## Project Overview
@@ -46,4 +47,5 @@ Fields include:
 - Multi-semester trend analysis
 - Predictive performance modeling
 - Role-based dashboard views
+
 
